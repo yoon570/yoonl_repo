@@ -1,0 +1,13 @@
+load small.csv
+find 67
+find 60
+find 9
+find 52
+find 52
+find 61
+find 12
+find 4
+find 11
+find 15
+find 64
+find 14

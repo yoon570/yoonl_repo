@@ -1,0 +1,5 @@
+load small.csv
+save small_save.csv
+clear
+load small_save.csv
+display

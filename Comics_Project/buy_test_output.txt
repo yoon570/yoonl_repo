@@ -1,0 +1,103 @@
+Command: load small.csv
+	Number of comics: 24
+Command: buy 19
+Comic #19 added to purchase list
+Command: buy 17
+Comic #17 added to purchase list
+Command: buy 7
+Comic #7 added to purchase list
+Command: buy 10
+Comic #10 added to purchase list
+Command: buy 12
+Comic #12 added to purchase list
+Command: buy 9
+Comic #9 added to purchase list
+Command: buy 13
+Comic #13 added to purchase list
+Command: buy 2
+Comic #2 added to purchase list
+Command: buy 19
+Comic #19 added to purchase list
+Command: buy 2
+Comic #2 added to purchase list
+Command: buy 19
+Comic #19 added to purchase list
+Command: buy 11
+Comic #11 added to purchase list
+Command: checkout
+Comics in Purchase List
+Comic Number: 1
+	Date: 03/08/23
+	Code: JAN231233
+	Publisher: ARCHIE COMIC PUBLICATIONS
+	Title: Betty And Veronica Friends Forever Rock And Roll #1
+	Cost: $2.99
+Comic Number: 2
+	Date: 03/08/23
+	Code: JAN231159
+	Publisher: AHOY COMICS
+	Title: Gimmick #1 (Of 5)(Cover B Khary Randolph)
+	Cost: $3.99
+Comic Number: 3
+	Date: 03/08/23
+	Code: DEC220992
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover B Emilio Pilliu)
+	Cost: $3.99
+Comic Number: 4
+	Date: 03/08/23
+	Code: DEC220995
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover E Roberto Meli Virgin Variant)
+	Cost: AR
+Comic Number: 5
+	Date: 03/08/23
+	Code: DEC220997
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover G Alessandro Amoruso Virgin Variant)
+	Cost: AR
+Comic Number: 6
+	Date: 03/08/23
+	Code: DEC220994
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover D Brent McKee Marvel Premiere #1 Warlock Homage Variant)
+	Cost: $3.99
+Comic Number: 7
+	Date: 03/08/23
+	Code: JAN231148
+	Publisher: ABRAMS COMICARTS - SURELY
+	Title: Mimosa GN
+	Cost: $24.99
+Comic Number: 8
+	Date: 03/08/23
+	Code: JAN231099
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover C Fritz Casis Giant-Size X-Men #1 Homage Variant)
+	Cost: $3.99
+Comic Number: 9
+	Date: 03/08/23
+	Code: JAN231233
+	Publisher: ARCHIE COMIC PUBLICATIONS
+	Title: Betty And Veronica Friends Forever Rock And Roll #1
+	Cost: $2.99
+Comic Number: 10
+	Date: 03/08/23
+	Code: JAN231099
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover C Fritz Casis Giant-Size X-Men #1 Homage Variant)
+	Cost: $3.99
+Comic Number: 11
+	Date: 03/08/23
+	Code: JAN231233
+	Publisher: ARCHIE COMIC PUBLICATIONS
+	Title: Betty And Veronica Friends Forever Rock And Roll #1
+	Cost: $2.99
+Comic Number: 12
+	Date: 03/08/23
+	Code: DEC220996
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover F Emilio Pilliu Virgin Variant)
+	Cost: AR
+ Subtotal:  $53.91
+      Tax:  $2.70
+    Total:  $56.61

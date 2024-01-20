@@ -1,0 +1,2 @@
+load small.csv
+display

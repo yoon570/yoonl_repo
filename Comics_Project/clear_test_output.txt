@@ -1,0 +1,150 @@
+Command: load small.csv
+	Number of comics: 24
+Command: display
+Comic Number: 1
+	Date: 03/08/23
+	Code: JAN231097
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover A Letizia Cadonici)
+	Cost: $3.99
+Comic Number: 2
+	Date: 03/08/23
+	Code: JAN231098
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover B Keyla Valerio)
+	Cost: $3.99
+Comic Number: 3
+	Date: 03/08/23
+	Code: JAN231099
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover C Fritz Casis Giant-Size X-Men #1 Homage Variant)
+	Cost: $3.99
+Comic Number: 4
+	Date: 03/08/23
+	Code: JAN231100
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover D Letizia Cadonici Virgin Variant)
+	Cost: AR
+Comic Number: 5
+	Date: 03/08/23
+	Code: JAN231101
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover E Keyla Valerio Virgin Variant)
+	Cost: AR
+Comic Number: 6
+	Date: 03/08/23
+	Code: JAN231102
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover F Fritz Casis Giant-Size X-Men #1 Homage Virgin Variant)
+	Cost: AR
+Comic Number: 7
+	Date: 03/08/23
+	Code: DEC220991
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover A Roberto Meli)
+	Cost: $3.99
+Comic Number: 8
+	Date: 03/08/23
+	Code: DEC220992
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover B Emilio Pilliu)
+	Cost: $3.99
+Comic Number: 9
+	Date: 03/08/23
+	Code: DEC220993
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover C Alessandro Amoruso)
+	Cost: $3.99
+Comic Number: 10
+	Date: 03/08/23
+	Code: DEC220994
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover D Brent McKee Marvel Premiere #1 Warlock Homage Variant)
+	Cost: $3.99
+Comic Number: 11
+	Date: 03/08/23
+	Code: DEC220995
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover E Roberto Meli Virgin Variant)
+	Cost: AR
+Comic Number: 12
+	Date: 03/08/23
+	Code: DEC220996
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover F Emilio Pilliu Virgin Variant)
+	Cost: AR
+Comic Number: 13
+	Date: 03/08/23
+	Code: DEC220997
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover G Alessandro Amoruso Virgin Variant)
+	Cost: AR
+Comic Number: 14
+	Date: 03/08/23
+	Code: JAN231148
+	Publisher: ABRAMS COMICARTS - SURELY
+	Title: Mimosa GN
+	Cost: $24.99
+Comic Number: 15
+	Date: 03/08/23
+	Code: OCT221323
+	Publisher: AC COMICS
+	Title: Femforce #199
+	Cost: $5.95
+Comic Number: 16
+	Date: 03/08/23
+	Code: SEP221178
+	Publisher: AFTERSHOCK COMICS
+	Title: Samurai Doggy #4
+	Cost: $3.99
+Comic Number: 17
+	Date: 03/08/23
+	Code: JAN231158
+	Publisher: AHOY COMICS
+	Title: Gimmick #1 (Of 5)(Cover A Erica Henderson)
+	Cost: $3.99
+Comic Number: 18
+	Date: 03/08/23
+	Code: JAN231159
+	Publisher: AHOY COMICS
+	Title: Gimmick #1 (Of 5)(Cover B Khary Randolph)
+	Cost: $3.99
+Comic Number: 19
+	Date: 03/08/23
+	Code: JAN231235
+	Publisher: ARCHIE COMIC PUBLICATIONS
+	Title: Archie Jumbo Comics Digest #338
+	Cost: $9.99
+Comic Number: 20
+	Date: 03/08/23
+	Code: JAN231233
+	Publisher: ARCHIE COMIC PUBLICATIONS
+	Title: Betty And Veronica Friends Forever Rock And Roll #1
+	Cost: $2.99
+Comic Number: 21
+	Date: 03/08/23
+	Code: JAN231351
+	Publisher: AWA STUDIOS
+	Title: Black Tape #2 (Of 4)(Cover A Dan Panosian)
+	Cost: $3.99
+Comic Number: 22
+	Date: 03/08/23
+	Code: JAN231352
+	Publisher: AWA STUDIOS
+	Title: Black Tape #2 (Of 4)(Cover B Joe Quesada)
+	Cost: $3.99
+Comic Number: 23
+	Date: 03/08/23
+	Code: JAN231353
+	Publisher: AWA STUDIOS
+	Title: Black Tape #2 (Of 4)(Cover C Chris Ferguson Heavy Metal Homage Variant)
+	Cost: $3.99
+Comic Number: 24
+	Date: 03/08/23
+	Code: JAN231354
+	Publisher: AWA STUDIOS
+	Title: Black Tape #2 (Of 4)(Cover D Walt Simonson & Dan Panosian)
+	Cost: AR
+Command: clear
+Command: display
+List is currently empty.

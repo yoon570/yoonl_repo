@@ -1,0 +1,50 @@
+Command: load small.csv
+	Number of comics: 24
+Command: find 67
+There is no comic at index #67 in the list.
+Command: find 60
+There is no comic at index #60 in the list.
+Command: find 9
+	Date: 03/08/23
+	Code: DEC220994
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover D Brent McKee Marvel Premiere #1 Warlock Homage Variant)
+	Cost: $3.99
+Command: find 52
+There is no comic at index #52 in the list.
+Command: find 52
+There is no comic at index #52 in the list.
+Command: find 61
+There is no comic at index #61 in the list.
+Command: find 12
+	Date: 03/08/23
+	Code: DEC220997
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover G Alessandro Amoruso Virgin Variant)
+	Cost: AR
+Command: find 4
+	Date: 03/08/23
+	Code: JAN231101
+	Publisher: ABLAZE PUBLISHING
+	Title: Children Of The Black Sun #3 (Cover E Keyla Valerio Virgin Variant)
+	Cost: AR
+Command: find 11
+	Date: 03/08/23
+	Code: DEC220996
+	Publisher: ABLAZE PUBLISHING
+	Title: Traveling To Mars #4 (Cover F Emilio Pilliu Virgin Variant)
+	Cost: AR
+Command: find 15
+	Date: 03/08/23
+	Code: SEP221178
+	Publisher: AFTERSHOCK COMICS
+	Title: Samurai Doggy #4
+	Cost: $3.99
+Command: find 64
+There is no comic at index #64 in the list.
+Command: find 14
+	Date: 03/08/23
+	Code: OCT221323
+	Publisher: AC COMICS
+	Title: Femforce #199
+	Cost: $5.95

@@ -1,0 +1,14 @@
+load small.csv
+remove 67
+remove 60
+remove 9
+remove 52
+remove 52
+remove 61
+remove 12
+remove 4
+remove 11
+remove 15
+remove 64
+remove 14
+display

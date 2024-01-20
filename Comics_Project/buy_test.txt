@@ -1,0 +1,14 @@
+load small.csv
+buy 19
+buy 17
+buy 7
+buy 10
+buy 12
+buy 9
+buy 13
+buy 2
+buy 19
+buy 2
+buy 19
+buy 11
+checkout
