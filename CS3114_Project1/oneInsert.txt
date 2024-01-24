@@ -1,0 +1,15 @@
+insert 0
+Overview of HCI Research at VT
+0610051600 90 10 10 45
+HCI Computer_Science VT Virginia_Tech
+This seminar will present an overview of HCI research at VT
+
+search 0
+
+print hashtable
+
+delete 0
+
+search 0
+
+print hashtable
