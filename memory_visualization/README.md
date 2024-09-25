@@ -6,6 +6,7 @@ A short summary of the algorithm's general functionality is included below inste
 *****
 STAGE 1: Constant Stride Compression
 The algorithm first finds Byte-sized characters that repeat at a constant interval. The algorithm then compresses this "constant stride" into two characters.
+This algorithm is an extrapolation of Run Length Encoding. See https://en.wikipedia.org/wiki/Run-length_encoding
 The specifics of what data is included in these characters is not permitted for disclosure.
 
 STAGE 2: Byte Sequence Encoding
